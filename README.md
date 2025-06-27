@@ -52,3 +52,32 @@ This repository showcases the progressive development of a social media web appl
 ---
 
 ## 📁 Folder Structure
+
+
+├── user_uploads/                 # Profile pictures and media uploads
+├── alerts.php
+├── all_posts_feed.php
+├── blocked_users.php
+├── db_connection.php
+├── fetch_messages.php
+├── fetch_posts.php
+├── find_users.php
+├── friend_request_send.php
+├── friends_list.php
+├── home_page.php
+├── incoming_requests.php
+├── message_submit.php
+├── messages_view.php
+├── my_timeline.php
+├── outgoing_requests.php
+├── post_submit.php
+├── process_login.php
+├── process_register.php
+├── profile_page.php
+├── profile_upload.php
+├── request_actions.php
+├── schema.sql
+├── signout.php
+├── signup_page.html
+├── unblock_user.php
+└── user_login_form.html
