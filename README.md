@@ -9,7 +9,6 @@ This repository showcases the progressive development of a social media web appl
 ## 📌 Assignment Overview
 
 ### ✅ Assignment 3 – User Registration & Login
-- Responsive login and signup system
 - Frontend and backend validation
 - Secure password hashing
 - Session-based login tracking
